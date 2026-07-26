@@ -16,6 +16,17 @@
 
 ---
 
+### 📚 Currently Learning
+
+- Java
+- Spring Boot
+- AWS
+- Docker
+- Nginx
+- MySQL
+
+---
+
 ### 🚀 Projects
 
 
