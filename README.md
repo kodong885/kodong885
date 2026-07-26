@@ -6,7 +6,7 @@
 
 
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring_Boot&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white)
@@ -15,12 +15,12 @@
 
 
 
-## 🚀 Projects
+### 🚀 Projects
 
 
 
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kodong885&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kodong885&layout=compact)
