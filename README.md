@@ -1,19 +1,21 @@
-## 👋 Hi there, I'm Donghwi Ko
+# 👋 Hi there, I'm Donghwi Ko
+
+🎓 Sahmyook University — Computer Engineering (2026~)
+💻 Interested in Backend Development
 
 
+## 🧰 Tech Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white)
+![Nginx](https://img.shields.io/badge/#Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+
+## 🚀 Projects
 
 
-<!--
-**kodong885/kodong885** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
+![Donghwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kodong885&show_icons=true&theme=transparent)
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kodong885&layout=compact&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
